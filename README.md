@@ -16,8 +16,8 @@ To execute this code, you can just type following command in your terminal - you
 ```
 
 Take photo with your space bar, and finish the program with escape key.
-![alt text]('./process.png')
+![alt text](./process.png)
 
 You will get something like this.
-![alt text]('./result.png')
+![alt text](./result.png)
 

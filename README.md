@@ -10,11 +10,14 @@ I used cv2 to take a photo, and extract text using pyocr.
 ```
 
 To execute this code, you can just type following command in your terminal - you might need to install some libraries though.
-'''
+
+```
   python take_photo.py
-'''
+```
+
 Take photo with your space bar, and finish the program with escape key.
+![alt text]('./process.png')
 
 You will get something like this.
-![alt text]('result.png')
+![alt text]('./result.png')
 
